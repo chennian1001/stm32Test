@@ -1,0 +1,16 @@
+{
+  "schemaVersion": 1,
+  "activeMapId": "default",
+  "maps": [
+    {
+      "id": "default",
+      "name": "智能小车",
+      "updatedAt": "2026-09-16T02:28:17.528Z"
+    },
+    {
+      "id": "default-2",
+      "name": "Default",
+      "updatedAt": "2026-09-16T02:27:54.755Z"
+    }
+  ]
+}

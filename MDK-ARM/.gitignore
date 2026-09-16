@@ -1,0 +1,58 @@
+# ===== Keil MDK =====
+*.uvguix.*
+*.uvoptx
+*.uvprojx.bak
+*.bak
+*.dep
+*.iex
+*.lnp
+*.scvd
+*.htm
+*.lst
+*.map
+*.o
+*.crf
+*.d
+*.axf
+*.hex
+*.bin
+*.build_log.htm
+*.sct
+JLinkLog.txt
+JLinkSettings.ini
+RTE/
+
+# ===== 编译输出目录 =====
+build/
+Output/
+Debug/
+Release/
+Objects/
+Listings/
+
+# ===== STM32CubeMX =====
+*.mxproject
+.mxproject
+.cproject
+.project
+.settings/
+
+# ===== IDE / 编辑器 =====
+.vscode/
+.idea/
+*.swp
+*~
+
+# ===== OS 生成文件 =====
+.DS_Store
+Thumbs.db
+
+# ===== 调试器 =====
+*.launch
+*.log
+
+# ===== 保留的文件 =====
+!*.uvprojx
+!*.ioc
+!*.ld
+!*.sct.default
